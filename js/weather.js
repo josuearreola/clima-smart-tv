@@ -5,7 +5,7 @@
 // Para esta practica academica la declaramos como constante
 // y documentamos que el archivo NO se sube a GitHub.
 // En produccion: reemplazar por llamada a /api/weather?city=X
-const API_KEY = window.ENV_API_KEY || 'b8bf3980ba2dfc5a4a0fa6d2f6b7c151';
+const API_KEY = window.ENV_API_KEY || 'TU_API_KEY_AQUI';
 const BASE_URL = 'https://api.openweathermap.org/data/2.5/weather';
 const CITIES = ['Queretaro', 'Ciudad de Mexico', 'Guadalajara', 'Monterrey'];
 // Mapeo condicion -> archivo de video

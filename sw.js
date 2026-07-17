@@ -1,11 +1,12 @@
 // sw.js
-const CACHE_STATIC = 'clima-tv-static-v5';
-const CACHE_DYNAMIC = 'clima-tv-dynamic-v5';
+const CACHE_STATIC = 'clima-tv-static-v6';
+const CACHE_DYNAMIC = 'clima-tv-dynamic-v6';
 // Recursos estaticos: se cachean en la instalacion
 const STATIC_ASSETS = [
     '/',
     '/index.html',
     '/css/styles.css',
+    '/js/config.js',
     '/js/app.js',
     '/js/weather.js',
     '/js/navigation.js',

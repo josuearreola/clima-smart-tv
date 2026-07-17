@@ -5,3 +5,4 @@ node_modules/
 *.keystore
 .DS_Store
 Thumbs.db
+js/config.js
